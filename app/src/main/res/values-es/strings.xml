@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="weather">Clima</string>
+    <string name="country_iso_code">Código ISO del País :</string>
+    <string name="code">Código</string>
+    <string name="city_name">Nombre de Ciudad :</string>
+    <string name="name">Nombre</string>
+    <string name="get">Obtener</string>
+    <string name="temperature">Temperatura</string>
+    <string name="current">Actual :</string>
+    <string name="minimum">Mínima :</string>
+    <string name="maximum">Máxima :</string>
+    <string name="Fields_cannot_be_empty">Los campos no pueden ser vacíos</string>
+</resources>
